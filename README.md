@@ -145,9 +145,10 @@ public class MainActivity extends AppCompatActivity {
  } }
 ~~~
 ## OUTPUT
-![image](https://github.com/Kulaganachi/GUI_components/assets/133641126/bd8156ad-b6a5-46b2-8a28-b400ba38eae2)
 
-![image](https://github.com/Kulaganachi/GUI_components/assets/133641126/8aea1978-f158-48ed-aa9e-5407d374e44a)
+![image](https://github.com/Kulaganachi/GUI_components/assets/133641126/060685bb-81c4-428c-be1a-121937a9b183)
+
+![image](https://github.com/Kulaganachi/GUI_components/assets/133641126/3ac0a114-5eac-46c5-94fd-3ec816452b1d)
 
 ![image](https://github.com/Kulaganachi/GUI_components/assets/133641126/f48eb122-10c1-4dfa-8951-8ec39237d59b)
 
